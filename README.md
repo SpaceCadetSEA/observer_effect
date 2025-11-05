@@ -1,1 +1,1 @@
-# quantum_observer
+# Observer Effect
